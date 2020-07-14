@@ -2,7 +2,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_nb_plus/component/app/app_component.dart';
-import 'package:flutter_nb_plus/component/providers/count_number.dart';
+import 'package:flutter_nb_plus/config/providers/count_number.dart';
 import 'package:provider/provider.dart';
 
 /// This is a reimplementation of the default Flutter application using provider + [ChangeNotifier].
